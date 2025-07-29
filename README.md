@@ -29,7 +29,7 @@ Upcoming:
 | API-based AQI Data Collection      | ✅ Completed    | Python script collects and pushes data every hour |
 | Real-time Chart Dashboard          | ✅ In Progress  | Charts using React + Recharts (Top AQI, Trends, Components) |
 | Interactive Map View               | 🔜 Upcoming     | Map with location-based AQI indicators |
-| SMS Alert System (via Twilio/API)  | 🔜 Upcoming     | Sends alerts to authorities and users |
+| SMS Alert System (via Twilio/API)  | ✅ Completed    | Sends alerts to authorities and users |
 | ML AQI Spike Predictor             | 🔜 Upcoming     | Predicts high-risk cities based on past data |
 | Admin Panel                        | 🔜 Upcoming     | Manage zones, limits, alert thresholds |
 | Detailed ERD Diagram               | 🔜 Upcoming     | Detailed ERD Diagram to understand the structure of the database
